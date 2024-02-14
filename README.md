@@ -16,13 +16,13 @@
 
 - 👨‍💻 Git portfolio is available at [https://rb.gy/h5kli0](https://rb.gy/h5kli0)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/ajinthomas1](www.linkedin.com/in/ajinthomas1)
+- 📝 Checkout my Tableau Public on [https://rb.gy/9rlj2y](https://rb.gy/9rlj2y)
 
 - 💬 Ask me about **Analytics,BI,Data Warehousing,ETL, Reporting**
 
 - 📫 How to reach me **ajinthomas26@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/ajinthomas1](www.linkedin.com/in/ajinthomas1)
+- 📄 Know about my experiences [[https://rb.gy/j2hpp1](https://rb.gy/j2hpp1)
 
 - ⚡ Fun fact **Training on flying airplanes**
 

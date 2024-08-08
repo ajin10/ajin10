@@ -30,7 +30,7 @@
 <p align="left">
 <a href="https://twitter.com/ajin14674330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajin14674330" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajin thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajin thomas" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/data junkie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="data junkie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@datajunkie3938" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="data junkie" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

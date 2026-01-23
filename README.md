@@ -18,7 +18,7 @@
 
 - 📝 Checkout my Tableau Public on [https://rb.gy/9rlj2y](https://rb.gy/9rlj2y)
 
-- 💬 Ask me about **Analytics,BI,Data Warehousing,ETL, Reporting**
+- 💬 Ask me about **AI, Analytics, BI, Data Warehousing, ETL, Reporting**
 
 - 📫 How to reach me **ajinjobapps@gmail.com**
 

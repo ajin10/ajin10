@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi👋, I'm Ajin Thomas</h1>
-<h3 align="center">An Experienced Analytics Consulting Professional</h3>
+<h3 align="center">An Analytics & AI Advisor | Building Intelligent Data Platforms & Decision Systems | Consulting Professional</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*kIacWWXjfYBFXqIXhIuCXQ.gif">
 
 
@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **Analytics,BI,Data Warehousing,ETL, Reporting**
 
-- 📫 How to reach me **ajinthomas26@gmail.com**
+- 📫 How to reach me **ajinjobapps@gmail.com**
 
 - 📄 Know about my experiences [[https://rb.gy/j2hpp1](https://rb.gy/j2hpp1)
 

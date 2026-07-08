@@ -19,7 +19,7 @@
   <a href="mailto:ajinjobapps@gmail.com"><b>Email</b></a>
 </p>
 
-<img align="right" alt="Analytics workstation" width="380" src="assets/analyst-dashboards.gif">
+<img align="right" alt="Retro workstation" width="380" src="assets/pixel-room.gif">
 
 - 🔭 Currently working on **analytics implementation projects** and **LLM-driven enterprise workflow automation**
 

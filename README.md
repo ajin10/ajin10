@@ -1,4 +1,4 @@
-![MasterHead](assets/pixel-room.gif)
+![MasterHead](assets/pixel-city.gif)
 
 <h1 align="center">Hi 👋, I'm Ajin Thomas</h1>
 <h3 align="center">Analytics & AI Advisor — Intelligent Data Platforms · Decision Systems · Agentic AI</h3>
@@ -19,7 +19,7 @@
   <a href="mailto:ajinjobapps@gmail.com"><b>Email</b></a>
 </p>
 
-<img align="right" alt="Coding" width="380" src="assets/coding.gif">
+<img align="right" alt="Retro workstation" width="380" src="assets/pixel-room.gif">
 
 - 🔭 Currently working on **analytics implementation projects** and **LLM-driven enterprise workflow automation**
 
